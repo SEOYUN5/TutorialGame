@@ -1,4 +1,4 @@
-# 🎮 FirstGame 
+# 🎮 TutorialGame 
 
 ## 📝 게임 개요
 * **개발 도구**: Unity, C#
